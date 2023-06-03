@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "wifi_manager.h": "c",
+        "event_groups.h": "c",
+        "utils.h": "c",
+        "gpio.h": "c",
+        "esp_system.h": "c",
+        "secrets.h": "c",
+        "string.h": "c",
+        "esp_err.h": "c",
+        "scheme_console.h": "c",
+        "manager.h": "c"
+    }
+}
